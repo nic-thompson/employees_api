@@ -13,6 +13,5 @@ Content-Type: application/json
 {
     "name": "Nicolas",
     "position": "Engineer",
-    "salary":80000,
-    "other": "things"
+    "salary":80000
 }
